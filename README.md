@@ -219,7 +219,8 @@ The Logistic Regression model delivered the best balance of accuracy, precision,
 
 # 📷 Dashboard Preview
 
-> *(Add your Power BI dashboard screenshot here after uploading it to the repository.)*
+> <img width="1413" height="851" alt="Customer_Churn_Analysis_Dashboard" src="https://github.com/user-attachments/assets/c10171ec-0ebe-4053-bf7f-eae9e6ec493c" />
+
 
 ```
 Dashboard Images/dashboard.png
