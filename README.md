@@ -18,6 +18,10 @@ The primary objective of this project is to:
 - Develop a machine learning model to predict customer churn.
 - Provide actionable recommendations to improve customer retention.
 
+- <img width="738" height="264" alt="images" src="https://github.com/user-attachments/assets/0c8346c7-9e01-468c-8406-80517d0a726c" />
+
+
+
 ---
 
 ## 🛠️ Tech Stack
